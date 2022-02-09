@@ -1,2 +1,6 @@
 # Frames
-Working with JFrame
+## Working with JFrame
+
+###### Project Structure
+- Docs: for 
+
