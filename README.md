@@ -1,2 +1,0 @@
-# Frames
-Working with JFrame
