@@ -12,6 +12,6 @@ For further information: Please read the documentations in **Doc**.
 The version of the JDK used in this project is 1.8.0_311 .The IDE that is used for working on this project is IntelliJ-Idea (Community Edition)
 
 ## Copyright
-Icon (in **Images**) used in project is designed by [Sunder Muthukumaran](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and published in [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+Icon (in **Images**) used in this project is designed by [Sunder Muthukumaran](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and published in [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
 
 
