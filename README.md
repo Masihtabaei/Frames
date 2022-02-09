@@ -2,5 +2,5 @@
 ## Working with JFrame
 
 ###### Project Structure
-- Docs: for 
+- **Doc contains automatically by JavaDoc generated documenatation of the whole project
 
